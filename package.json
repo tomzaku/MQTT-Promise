@@ -1,0 +1,24 @@
+{
+  "name": "mqtt-promise",
+  "version": "1.0.0",
+  "description": "Promise MQTT for Client",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomzaku/MQTT-Promise.git"
+  },
+  "keywords": [
+    "react-native",
+    "mqtt",
+    "promise"
+  ],
+  "author": "zaku",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomzaku/MQTT-Promise/issues"
+  },
+  "homepage": "https://github.com/tomzaku/MQTT-Promise#readme"
+}
